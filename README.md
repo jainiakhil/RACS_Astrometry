@@ -78,20 +78,20 @@ https://github.com/user-attachments/assets/53da1fc5-8b8e-486e-8b74-78bdebb82666
 ### Epoch Skymaps
 
 #### RACS-Low1
-![RACS-Low1 Before/After Skymap](./RACS-Low1/skymap_placeholder.png)
-*Figure 1: Before and after astrometric correction positional offset distribution across the RACS-Low1 survey sky.*
+![RACS-Low1 Before/After Skymap](./RACS-Low1/racslow1_skymap.png)
+*The modelled and residual offsets of RACS-Low1 vs WISE after two stages of crossmatching are shown here. The top row shows the modelled offsets and the bottom row shows the residual offsets in RA (left) and Dec. (right) for the entire sky coverage.*
 
 #### RACS-Low3
-![RACS-Low3 Before/After Skymap](./RACS-Low3/skymap_placeholder.png)
-*Figure 2: Position offset distribution for RACS-Low3 relative to optical/radio reference catalogues before and after correction.*
+![RACS-Low3 Before/After Skymap](./RACS-Low3/racslow3_skymap.png)
+*The modelled and residual offsets of RACS-Low3 vs WISE after two stages of crossmatching are shown here. The top row shows the modelled offsets and the bottom row shows the residual offsets in RA (left) and Dec. (right) for the entire sky coverage.*
 
 #### RACS-Mid1
-![RACS-Mid1 Before/After Skymap](./RACS-Mid1/skymap_placeholder.png)
-*Figure 3: Astrometric alignment improvements for RACS-Mid1 fields.*
+![RACS-Mid1 Before/After Skymap](./RACS-Mid1/racsmid1_skymap.png)
+*The modelled and residual offsets of RACS-Mid1 vs WISE after two stages of crossmatching are shown here. The top row shows the modelled offsets and the bottom row shows the residual offsets in RA (left) and Dec. (right) for the entire sky coverage.*
 
 #### RACS-High1
-![RACS-High1 Before/After Skymap](./RACS-High1/skymap_placeholder.png)
-*Figure 4: Astrometric alignment improvements for RACS-High1 fields.*
+![RACS-High1 Before/After Skymap](./RACS-High1/racshigh1_skymap.png)
+*The modelled and residual offsets of RACS-High1 vs WISE after two stages of crossmatching are shown here. The top row shows the modelled offsets and the bottom row shows the residual offsets in RA (left) and Dec. (right) for the entire sky coverage.*
 
 ---
 
