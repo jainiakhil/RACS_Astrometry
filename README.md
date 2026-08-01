@@ -91,3 +91,10 @@ RACS_Astrometry/
 ## 🛠️ Usage Notes & Dependencies
 - **Core Dependencies**: Python 3.9+, `numpy`, `scipy`, `pandas`, `astropy`, `astroquery`, `matplotlib`.
 - Shared utility modules `RACSQuery.py` and `RACSUtils.py` inside `./utils/` are imported across all epoch analysis notebooks.
+
+
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE).
