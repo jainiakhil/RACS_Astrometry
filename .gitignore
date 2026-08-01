@@ -1,0 +1,38 @@
+# Python & Jupyter Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.venv
+astrometry_venv1/
+venv/
+ENV/
+
+# OS / System Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data dumps and raw catalogues (large CSV / FITS / VOT / XML files)
+*.csv
+*.fits
+*.xml
+*.vot
+*.zip
+*.tar.gz
+*.xlsx
+*.xls
+*.log
+
+# Keep essential .npy input files
+!utils/*.npy
+!RACS-Low1/*.npy
+!RACS-Low3/*.npy
+!RACS-Mid1/*.npy
+!RACS-High1/*.npy
