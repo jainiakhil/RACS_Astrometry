@@ -67,7 +67,11 @@ RACS_Astrometry/
 
 ### Pipeline Video Demonstration
 
-https://github.com/user-attachments/assets/2e2c30ab-8fdd-43dc-861d-8b003edc9e88
+
+
+https://github.com/user-attachments/assets/53da1fc5-8b8e-486e-8b74-78bdebb82666
+
+
 
 *Demonstration of systematic astrometric corrections for a sequence of RACS-Low1 scans sharing a common bandpass calibration. The bottom-left panel displays raw, uncorrected positional offsets across all beams and scans. The top panels show the derived beam-independent and scan-independent correction models, while the bottom-right panel highlights the residual offsets post-calibration. A direct comparison between the bottom panels demonstrates the dramatic reduction in systematic positioning errors across the survey fields.*
 
